@@ -1,8 +1,7 @@
 # Technical-Indicator-Project
 
-## Plan for 2/21:
-Izzy: Implement the algorithm on the fintech club minute data 
+## Challenges:
 
-Stephen: Research backtesting implementation
-
-Mia: 
+- Come up with a good objective function
+- Figure out how to condense Bollinger band into one useful feature
+- 
