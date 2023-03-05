@@ -11,4 +11,6 @@
         implement the Sharpe ratio column 
 - Mia: calculating the variance of the stock for Sharpe ratio
        validating our upper and lower bound hypothesis
-  
+
+Information retained from dimensionality reduction
+![Screen Shot 2023-03-05 at 2 16 20 PM](https://user-images.githubusercontent.com/92131151/222983596-f5bc10d0-02cc-4c45-8b52-131ff0895f37.png)
