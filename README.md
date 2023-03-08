@@ -17,3 +17,7 @@ Information retained from dimensionality reduction
 
 
 - Consider adding one or two fundamental feature to the model
+
+## 
+- Izzy: random forest update with regression
+- 
